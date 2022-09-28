@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
 
 ## Before Running This Repo
 Update Items #1 to reflect your own repo URL
 
+=======
+## Troubleshooting Notes
+You can visit the following links to get help:
+https://git-scm.com/docs/git-help
+//Stash this above lines.
+>>>>>>> Stashed changes
 
 <H1>README</H1>
 <H1>Repo Name: java-app</H1>
