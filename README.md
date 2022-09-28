@@ -1,4 +1,7 @@
 
+## Before Running This Repo
+Update Items #1 to reflect your own repo URL
+
 
 <H1>README</H1>
 <H1>Repo Name: java-app</H1>
